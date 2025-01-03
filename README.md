@@ -18,7 +18,8 @@
 - [RuralLait](https://github.com/playerking3/ruralaitReact): Plataforma React para integração rural.
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=playerking3&show_icons=true&theme=dracula)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=playerking3&layout=compact&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SrLouizz&show_icons=true&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SrLouizz&layout=compact&theme=dracula)
+
 
 
