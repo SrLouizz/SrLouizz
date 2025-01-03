@@ -5,7 +5,7 @@
 ## 🌟 Sobre mim
 - 🎸 Parte de um grupo musical eclético.
 - 🛠️ Criador do [RuralLait](https://github.com/playerking3/ruralaitReact).
-- 🧑‍🎤 Cantor fazendo parte de uma banda.
+- 🧑‍🎤 Cantor
 
 ## 🔧 Tecnologias e Ferramentas
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
